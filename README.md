@@ -13,10 +13,9 @@ mongoimport --db store --users products --file users.json </br>
 
 * You will need to create manually collection with the name carts. </br>
 
-## Application running
+## Application run
 * npm install 
 * node server
-
 * The application will run on port 4000
 
 ## Login
