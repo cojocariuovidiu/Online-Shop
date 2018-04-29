@@ -9,7 +9,7 @@ An online shopping store based on Angular, Node and MongoDB. (MEAN STACK). </br>
 mongoimport --db store --collection categories --file categories.json </br>
 mongoimport --db store --collection orders --file orders.json </br>
 mongoimport --db store --collection products --file products.json </br>
-mongoimport --db store --users products --file users.json </br> 
+mongoimport --db store --collection users products --file users.json </br> 
 
 * You will need to create manually collection with the name carts. </br>
 
