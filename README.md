@@ -4,7 +4,6 @@ An online shopping store based on Angular, Node and MongoDB. (MEAN STACK). </br>
 #Instructions
 -Create new database with the name "store". </br>
 -Import the documents into the collections: </br>
-
 mongoimport --db store --collection categories --file categories.json </br>
 mongoimport --db store --collection orders --file orders.json </br>
 mongoimport --db store --collection products --file products.json </br>
